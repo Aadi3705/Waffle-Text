@@ -8,10 +8,15 @@ I plan on completing the topic "Finding all genes in DNA" when completing the Du
 
 
 Date of 6/12/2023
--complete chapter 2 of OCP
 -driving lessons 
--complete two chapters in math
+-complete one chapters in math
 -complete chapter 2 inside of mooc 
+
+Date of 6/12/2023
+-complete Riemann sums inside of math
+-driving lessons
+-complete half of chapter 3 for mooc
+-read chapter 2 and do programs
 
 
 

@@ -19,8 +19,8 @@ Date of 6/12/2023
 -read chapter 2 and do programs
 
 Date of 6/18/2023
--mooc,chapter 8
--Part 7, Java Programs
+-mooc,chapter 7
+-Calc, learn fundamental thereoms
 
 
 

@@ -27,7 +27,7 @@ Date of 6/28/2023
 --review what streams are(.mapToInt(),.filter(),.count(),.getAsDouble(),.average(),.collect(Collectors.toCollection(ArrayList::new)),.map(),.forEach(),.reduce() when it comes to ArrayList of Strings,.distinct(),.sorted()
 --Learn how to use .sorted(Comparator.comparing()) and .thenComparing(), .collect(Collectors.toList());
 --Learn comparable Interface
---review String-builder and .matches keyword in different instances
+--review String-builder, String.join() and .matches keyword in different instances
 --review the Iterator class and enums
 
 

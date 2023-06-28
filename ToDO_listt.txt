@@ -22,6 +22,19 @@ Date of 6/18/2023
 -mooc,chapter 7
 -Calc, learn fundamental thereoms
 
+Date of 6/28/2023
+-review chapter 10 one more time
+--review what streams are(.mapToInt(),.filter(),.count(),.getAsDouble(),.average(),.collect(Collectors.toCollection(ArrayList::new)),.map(),.forEach(),.reduce() when it comes to ArrayList of Strings,.distinct(),.sorted()
+--Learn how to use .sorted(Comparator.comparing()) and .thenComparing(), .collect(Collectors.toList());
+--Learn comparable Interface
+--review String-builder and .matches keyword in different instances
+--review the Iterator class and enums
+
+
+
+-complete unit 1 in the workbook
+-do fitness blender workout
+
 
 
 

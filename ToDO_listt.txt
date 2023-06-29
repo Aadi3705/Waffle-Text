@@ -29,11 +29,12 @@ Date of 6/28/2023
 --Learn comparable Interface
 --review String-builder, String.join() and .matches keyword in different instances
 --review the Iterator class and enums
-
-
-
 -complete unit 1 in the workbook
--do fitness blender workout
+
+
+Date of 6/29/2023
+-finish chapter 5 in calc textbook
+-finish every program in chapter 11 Mooc
 
 
 

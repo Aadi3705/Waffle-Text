@@ -13,6 +13,10 @@ Chapter 1:
 Chapter 2:
 -master every Numeric Promotion, learn about datatype ia aboce another and what fits into what
 -the order of precedence when it comes to operators, down to up is in increasing order.
+-icrementing and decrementing unary operators
+-the return value of numeric operators after numeric operation
+-instanceOf operators and learning how Object is a superclass of String, and how Integer is a superclass of Number, eg. if(time instanceof Integer x)
+-learn about boilerplate code, and shorter code when it comes to using instanceof
 
 
 

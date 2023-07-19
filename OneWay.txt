@@ -39,7 +39,7 @@ Chapter 4
 -understanding the common and different methods between Strings and Stringbuilder
 -how intern() plays an affect in the equality of Strings(==) and (.equals())
 -learn how arrays are mutable objects
--
+
 
 
 
@@ -47,4 +47,34 @@ Chapter 4
 
 
 Chapter 5
+-learn about varargs and how different types of callings work with it 
+-private and protected access, and how it works with classes in the same package, and subclasses of other superclasses
+-access modifiers in how they work with methods and variables
+-learn about static imports, what is acceptable and not
+-learn about unboxing and autoboxing, and how casting and numeric promotion is related to it
+-learn the importance of numeric promotion when working with method calling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

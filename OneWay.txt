@@ -1,4 +1,31 @@
-There is no real information in this file
-I am writing this file for the case for no real reason other than to speak my mind
-I sometimes wish github could use password protection when it comes to text files
-Password protection would prevent other people, especially peekers, from seeing the content inside of my personal life 
+OCP review topics
+
+Chapter 1:
+-understand the definition of primitive and reference types even more?
+-understanding passing parameters inside of a java program(args[0] and args[1]
+-learn about incidental whitespace and quotes escape character
+-review what scope is one more time, and applying it to variables
+
+
+
+
+Chapter 2:
+
+
+
+
+
+Chapter 3;
+
+
+
+
+
+Chapter 4
+
+
+
+
+
+Chapter 5
+

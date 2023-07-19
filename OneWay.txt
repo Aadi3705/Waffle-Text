@@ -5,23 +5,42 @@ Chapter 1:
 -understanding passing parameters inside of a java program(args[0] and args[1]
 -learn about incidental whitespace and quotes escape character
 -review what scope is one more time, and applying it to variables
+-learn garbage collection, the heap, and stack
 
 
 
 
 Chapter 2:
+-master every Numeric Promotion, learn about datatype ia aboce another and what fits into what
+-the order of precedence when it comes to operators, down to up is in increasing order.
 
 
 
 
 
-Chapter 3;
+
+
+Chapter 3:
+learn about break, continue, and return statement 
+
 
 
 
 
 
 Chapter 4
+-review strip, trim, stripTrailing, and stripLeading
+-learn indent() method one more time
+-stripIndent() and the length of a string
+-learn about whitespace and how it affects length of a string
+-TranslatesEscapes and its affect on length when used with \\t or \t
+-learn about String formatting, three ways: .format, .formatted, System.out.format
+-learn about mutability and immutability between String and StringBuilder
+-understanding the common and different methods between Strings and Stringbuilder
+-how intern() plays an affect in the equality of Strings(==) and (.equals())
+-learn how arrays are mutable objects
+-
+
 
 
 

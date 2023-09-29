@@ -133,8 +133,9 @@ Date of 9/29/2023
 -complete webwork for math
 -complete java problem of the day
 -look back on first webwork for math
--do calculator project
+-do calculator project(Problem 1)
 -do more integration with tables
+-webwork 6.6
 -go to the gym at 7:00
 
 

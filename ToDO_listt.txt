@@ -1,48 +1,12 @@
-Date of 10/10/2023
-Data Structures:
--finish lab 6 step 2
-Film:
--read until chapter 8 of the book
-Earth Science:
-Hurricanes ABA
+Date of 11/5/2023
+Earth Science 
+-take notes on chapter 8
+Data Structures
+-take notes on recursion study more about link nodes
 Calculas:
-do 10 questions Practice 2 webwork
-
-
-10/21/2023
-Calculas:
--Finish webwork 7.3
--spend time on 7.1(three hours in re-learning)
-
-Computer Science: 
--do problem of the day
--review chapter 1 inside of OCP book
-
-
-10/23/2023
-Computer Science:
--problem of the day
--review rest of Chapter 1 inside of OCP
-
-Calculas:
--4 problems of the 7.4 webwork
--take a look at 7.2 inside of webwork and guided notebook
-
-Data Structures:
--complete part 1 of assignment 3
-
-Earth Science:
--review chapter 13(13.1 to 13.5)
-
-
-
-
-
-
-
-
-
-
+-Finish the webwork
+Computer Science
+-re-learn chapter 1 and 2, and complete half of chapter 3. 
 
 
 

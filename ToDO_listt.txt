@@ -1,12 +1,24 @@
-Date of 11/5/2023
+Date of 11/8/2023
 Earth Science 
--take notes on chapter 8
-Data Structures
--take notes on recursion study more about link nodes
-Calculas:
--Finish the webwork
-Computer Science
--re-learn chapter 1 and 2, and complete half of chapter 3. 
+-Test on November 21st
+-study 13.14.15 before then
+
+
+
+Data Structures:
+Lab 7-November 11
+Lab 8-November 17
+Assignment 4-December 2
+-Test 3 on November 21st
+
+
+
+Calculas
+-Webwork due November 12, 17, 21
+
+
+
+
 
 
 

@@ -18,9 +18,10 @@ Calculas
 
 
 Complete Tomorrow
--review the chapters 8.2 and 8.3 with john taylor
 -review the 8.2 and 8.3 webworks
--ratio and root test udemy
+-ratio and root test, alternate series test, and power series udemy
+-review 8.4 webwork
+-do WW series practice
 DataStructures
 -review hashing
 -finish hashing lab

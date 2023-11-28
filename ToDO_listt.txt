@@ -18,15 +18,13 @@ Calculas
 
 
 Complete Tomorrow
--review the 8.2 and 8.3 webworks
--ratio and root test, alternate series test, and power series udemy
--review 8.4 webwork
--do WW series practice
-DataStructures
--review hashing
--finish hashing lab
-Earth Science
--review chapter 16 from science textbook
+After DataStructures Class: 
+-Submit lab 8
+-watch and learn what the power series is
+-complete 5 problems for math webwork
+-complete Earth Science 6.2 and 6.3
+
+
 
 
 
